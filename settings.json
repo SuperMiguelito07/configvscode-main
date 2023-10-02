@@ -1,0 +1,9 @@
+{
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "javascript.format.semicolons": "insert",
+    "javascript.preferences.quoteStyle": "single",
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "Visual Studio Dark"
+}
